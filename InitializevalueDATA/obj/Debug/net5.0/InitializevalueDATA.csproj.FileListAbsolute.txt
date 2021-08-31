@@ -1,0 +1,16 @@
+F:\DOTNET\InitializevalueDATA\InitializevalueDATA\bin\Debug\net5.0\InitializevalueDATA.exe
+F:\DOTNET\InitializevalueDATA\InitializevalueDATA\bin\Debug\net5.0\InitializevalueDATA.deps.json
+F:\DOTNET\InitializevalueDATA\InitializevalueDATA\bin\Debug\net5.0\InitializevalueDATA.runtimeconfig.json
+F:\DOTNET\InitializevalueDATA\InitializevalueDATA\bin\Debug\net5.0\InitializevalueDATA.runtimeconfig.dev.json
+F:\DOTNET\InitializevalueDATA\InitializevalueDATA\bin\Debug\net5.0\InitializevalueDATA.dll
+F:\DOTNET\InitializevalueDATA\InitializevalueDATA\bin\Debug\net5.0\ref\InitializevalueDATA.dll
+F:\DOTNET\InitializevalueDATA\InitializevalueDATA\bin\Debug\net5.0\InitializevalueDATA.pdb
+F:\DOTNET\InitializevalueDATA\InitializevalueDATA\obj\Debug\net5.0\InitializevalueDATA.csproj.AssemblyReference.cache
+F:\DOTNET\InitializevalueDATA\InitializevalueDATA\obj\Debug\net5.0\InitializevalueDATA.GeneratedMSBuildEditorConfig.editorconfig
+F:\DOTNET\InitializevalueDATA\InitializevalueDATA\obj\Debug\net5.0\InitializevalueDATA.AssemblyInfoInputs.cache
+F:\DOTNET\InitializevalueDATA\InitializevalueDATA\obj\Debug\net5.0\InitializevalueDATA.AssemblyInfo.cs
+F:\DOTNET\InitializevalueDATA\InitializevalueDATA\obj\Debug\net5.0\InitializevalueDATA.csproj.CoreCompileInputs.cache
+F:\DOTNET\InitializevalueDATA\InitializevalueDATA\obj\Debug\net5.0\InitializevalueDATA.dll
+F:\DOTNET\InitializevalueDATA\InitializevalueDATA\obj\Debug\net5.0\ref\InitializevalueDATA.dll
+F:\DOTNET\InitializevalueDATA\InitializevalueDATA\obj\Debug\net5.0\InitializevalueDATA.pdb
+F:\DOTNET\InitializevalueDATA\InitializevalueDATA\obj\Debug\net5.0\InitializevalueDATA.genruntimeconfig.cache
